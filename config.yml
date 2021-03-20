@@ -1,0 +1,5 @@
+name: 测试工具
+server: 1
+account: testaccount
+password: testpassword
+bundlesPath: bundles
